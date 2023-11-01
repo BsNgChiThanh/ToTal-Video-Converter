@@ -4,7 +4,6 @@
 
 ## Download phần mềm: ##
 - Bấm vào đây để [download phần mềm](https://raw.githubusercontent.com/BsNgChiThanh/ToTal-Video-Converter/IMP/ToTal%20Video%20Converter.exe)
-- ![image](https://github.com/BsNgChiThanh/ToTal-Video-Converter/assets/82578024/8408b16b-64f7-4fc0-87e8-5b50acec9ea0)
 
 ## Key: ##
 - Bấm vào đây để [lấy key kích hoạt](https://github.com/BsNgChiThanh/ToTal-Video-Converter/blob/IMP/Key.txt)
